@@ -1,3 +1,3 @@
 # Huddle01_Task
 
-![image](https://user-images.githubusercontent.com/63115179/120336183-babff480-c30f-11eb-925f-a403291c16b3.png)
+![image](https://user-images.githubusercontent.com/63115179/120336989-88fb5d80-c310-11eb-8f0a-2d57e3697a85.png)
